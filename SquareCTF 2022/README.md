@@ -1,1 +1,0 @@
-# SquareCTF 2022 Repo
