@@ -1,0 +1,2 @@
+key = 'play'
+ciphertext = '3d a4 aa 27 ef 7b 0d 4d 68 c4 c2 99 1a 75 f8 02 32 0f 8b 74 19 97 9d'
