@@ -1,0 +1,2 @@
+Follow the instructions to give the flag
+picoCTF{d3bugg3r_dr1v3_7776d758}

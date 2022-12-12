@@ -1,0 +1,1 @@
+To get the flag, work through the 0-31 positions of the array.

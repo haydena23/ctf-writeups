@@ -1,0 +1,14 @@
+# Hello!
+
+### In this repostory you will find my write-ups for Hackappatoi CTF 2022.
+
+### My main focus was the reverse engineering problems, however I will include other write-ups if I get around to them.
+
+### Solved:
+
+* Sanity rev
+* Hackappa_rev
+
+### Did not solve
+* eXclusive club (almost finished)
+* Best videogame (did not attempt)
