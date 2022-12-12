@@ -14,5 +14,5 @@ In the checker function, we can see that it takes it compares a predetermined nu
 ---
 ## Flag
 ```
-hctf{eXclU51v3_0r^N♠t?}
+hctf{eXclU51v3_0r^N0t?}
 ```
