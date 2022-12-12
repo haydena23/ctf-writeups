@@ -1,19 +1,7 @@
-def signed8bit_to_int(val):
-    return (((val >> 7) * 128) ^ val) - ((val >> 7) * 128)
+nums = [0x29, 0x22, 0x35, 0x27, 0x3a, 0x24, 0x19, 0x22, 0x2d, 0x14, 0x74,
+       0x70, 0x37, 0x72, 0x1e, 0x71, 0x33, 0x1f, 0xf, 0x71, 0x35, 0x7e, 0x3c]
 
-check_vals = [ 
-    41,34,53,39,58,36,
-    25,34,45,20,116,112,
-    55,114,30,113,51,31,
-    15,71,53,126,60,
-]
-
-# Algorithm
-# (i * 4) + (input ^ 0x41) = check_val[i]
-# Reverse algorithm
-# input = ((check_val[i] - (i * 4)) ^ 0x41)
-
-flag = 'hctf{'
-for i in range(len(check_vals)):
-    print(signed8bit_to_int((check_vals[i]-(i*4)) ^ 0x41))
-print(flag + "}")
+flag = ''
+for i in nums:
+    flag += chr(i ^ 0x41)
+print(flag)
