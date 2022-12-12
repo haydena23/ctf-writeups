@@ -8,7 +8,5 @@
 
 * Sanity rev
 * Hackappa_rev
-
-### Did not solve
-* eXclusive club (almost finished)
-* Best videogame (did not attempt)
+* eXclusive club
+* Best videogame
