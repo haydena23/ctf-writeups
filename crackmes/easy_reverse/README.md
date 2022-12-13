@@ -17,7 +17,7 @@ Arch: x86-64
 
 "an easy crackme"
 
-## Process
+## Solutions
 After Ghidra analysis, we can see that the program is quite simple. By adjusting the function signature, and renaming some variables, it becomes quite clear. The program checks the user input is of length 10, and the 5th spot of the input is an @ char. 
 
 <table>
