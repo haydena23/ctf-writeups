@@ -1,3 +1,4 @@
 /Challenges.txt
 *.i64
-/picoCTF 2023
+/.dist
+.gdb_history
