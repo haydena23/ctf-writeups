@@ -6,6 +6,7 @@ Welcome to my CTF writeups repository! This repository contains writeups for var
 
 - [crackmes](./crackmes/)
 - [Hackappatoi CTF 2022](./Hackappatoi%20CTF%202022/)
+- [ImaginaryCTF](./ImaginaryCTF%20Daily/)
 - [NSA Codebreaker 2022](./NSA%20Codebreaker%202022/)
 - [PicoCTF](./PicoCTF/)
 - [SANS Holiday Hack 2022](./SANS%20Holiday%20Hack%202022/)
